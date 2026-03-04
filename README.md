@@ -1,0 +1,2 @@
+# Outreach-Funnel-Performance-Analysis-Conversion-Optimization
+This project analyzes outreach and lead engagement data to understand how different channels and profile types perform across the conversion funnel.  The objective was to measure response behavior, identify high-performing segments, and optimize outreach efforts using data-driven insights instead of manual tracking using SQL, Power BI &amp; MSExcel
